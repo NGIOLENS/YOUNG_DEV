@@ -1,11 +1,10 @@
 #include <iostream>
+
 using namespace std;
 
 int main()
 {
-	
-	cout<<"Hello world!";
-	return 0;
-		
-	
+    long y;
+
+    cout<<sizeof(long);
 }
